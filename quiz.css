@@ -1,9 +1,12 @@
 .border {
   border-width: 2px;
   border-style: solid;
+  height: 250px;
+  width: 250px;
+  overflow: hidden;
+  word-wrap: break-word;
 }
 
 .selected {
   border-width: 5px;
-  /*background-color: grey;*/
 }
